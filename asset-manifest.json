@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/my-multi-form-app/static/css/main.e6c13ad2.css",
+    "main.js": "/my-multi-form-app/static/js/main.3497dbf2.js",
+    "static/js/453.c3f368a9.chunk.js": "/my-multi-form-app/static/js/453.c3f368a9.chunk.js",
+    "index.html": "/my-multi-form-app/index.html",
+    "main.e6c13ad2.css.map": "/my-multi-form-app/static/css/main.e6c13ad2.css.map",
+    "main.3497dbf2.js.map": "/my-multi-form-app/static/js/main.3497dbf2.js.map",
+    "453.c3f368a9.chunk.js.map": "/my-multi-form-app/static/js/453.c3f368a9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.3497dbf2.js"
+  ]
+}
